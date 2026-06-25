@@ -39,8 +39,10 @@ Dashboard screenshots are included in this repository.
 - Business Insights
 ## Project Screenshots
 
+## Project Screenshots
+
 ### Dashboard Screenshot
 ![Dashboard](Screenshot%202026-06-25%20174817.png)
 
 ### Analysis Screenshot
-![Analysis](Screenshot%202026-06-26%033759.png)
+![Analysis](Screenshot%202026-06-25%033759.png)
