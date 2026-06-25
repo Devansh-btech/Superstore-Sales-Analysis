@@ -43,4 +43,4 @@ Dashboard screenshots are included in this repository.
 ![Dashboard](Screenshot%202026-06-25%20174817.png)
 
 ### Analysis Screenshot
-![Analysis](Screenshot%202026-06-25%20174737.png)
+![Analysis](Screenshot%202026-06-26%033759.png)
