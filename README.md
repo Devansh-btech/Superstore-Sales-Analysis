@@ -37,3 +37,10 @@ Dashboard screenshots are included in this repository.
 - Pivot Tables
 - Data Visualization
 - Business Insights
+## Project Screenshots
+
+### Dashboard Screenshot
+![Dashboard](Screenshot%202026-06-25%20174817.png)
+
+### Analysis Screenshot
+![Analysis](Screenshot%202026-06-25%20174737.png)
